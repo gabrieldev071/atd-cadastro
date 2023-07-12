@@ -7,7 +7,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Um projeto web (Landing Page) de cadastro de formulário da empresa [ATD - Assessoria Digital](#). O objetivo do projeto foi por em prática o uso do HTML5 e CSS3 e também trabalhar em equipe, pois toda a aplicação do site da empresa ATD foi desenvolvida por 2 devs. </p>
+<p>Um projeto web (Landing Page) de cadastro de formulário da empresa <a ref="">ATD - Assessoria Digital</a>. O objetivo do projeto foi por em prática o uso do HTML5 e CSS3 e também trabalhar em equipe, pois toda a aplicação do site da empresa ATD foi desenvolvida por 2 devs. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -15,7 +15,7 @@
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
-<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização e seguindo um padrão de cores na página</strong> pude vivenciar como funciona o desenvolvimento de uma aplicação/projeto trabalhando em equipe./</p>
+<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização e seguindo um padrão de cores na página</strong> e pude vivenciar como funciona o desenvolvimento de um projeto trabalhando em equipe./</p>
 
 <h2>💻 Deploy:</h2>
 
@@ -42,19 +42,11 @@ O layout foi totalmente construido pelos desenvolvedores envolvidos. A base de c
 
 <h3>Tópicos abordados durante projeto:</h3>
 
-- JavaScript:
-
-        - Captura elementos html da page com querySelector através DOM.
-        - Manipulação do CSS através do JS/DOM.
-        - Manipulação de classes com JS.
-        - Utilização de funções e métodos de funções.
-        - Manipulação conteúdo(InnerHTML) de acordo com input do usuário.
-        - Utilizar o atributo parentElement para navegar na estrutura do DOM e acessar elementos pai
-
 - HTML5:
 
-        - Tags como section, div, forms, span, footer, label, nav, ul button, img, a,  h1, p, input.
-        - Adicionar mais de um nome de classe a um elemento html.
+        - Tags como section, div, main, span, button, img, a,  h1, p, footer
+        - Uso padrão de nomeclatura de classes no HTML com metodologia (BEM)
+        - Adicionar mais de um nome de classe  um elemento html.
         - Adicionar link de fonte padrão a ser utilizada na aplicação na sessão head do index.html.
         - Adicionar link de estilos a ser utilizado na aplicação na sessão head index.html.
 
@@ -62,7 +54,7 @@ O layout foi totalmente construido pelos desenvolvedores envolvidos. A base de c
 
         - Variáveis no CSS.
         - Reaproveitamenteo do código.
-        - Responsividade @media queries (medidas relativas e para telas diferentes)
+        - Responsividade com @media queries (telas diferentes) e medidas relativas.
         - Utilização do flexbox.
         - Uso de paleta de cores.
         - Utilização pseudo-elementos e pseudo-classes.
