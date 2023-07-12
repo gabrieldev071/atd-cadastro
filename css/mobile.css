@@ -1,0 +1,113 @@
+
+@media screen and (max-width: 600px) {
+    /* HEADER */
+
+    .container__header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0px 0px 5px #fff;
+        padding-top: 6%;
+        padding-bottom: 6%
+    }
+
+    .link-principal {
+        font-size: 1rem;
+    }
+
+    #icon-principal {
+        
+        font-size: 1rem;
+    }
+
+    .container__header--title {
+        font-size: 1rem;
+    }
+
+    /* MAIN */ 
+
+    .container__main {
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+        padding-bottom: 10%;
+    } 
+
+/*     .container__main :nth-child(3) {
+        border: 1px solid red;
+        order: 3;
+    } */
+
+    .container__main__imagem {
+        width: 100%;
+        text-align: center;
+   }
+
+    .container__main__text {
+        gap: 1.5rem;
+        padding-top: 10%;
+    }
+
+    .container__main__text--title{
+        font-size: 2rem;
+    }
+
+    .container__main__text--paragraph {
+        font-size: 1rem;
+    }
+
+    .main__text__childs h1:nth-child(3){
+        font-size: 1rem;
+     }
+
+    .main__text__childs i {
+        display: none;
+    }
+
+    .container__btnEspecialista {
+        width: 100%;
+        height: 100px;
+    }
+
+    .container__btnEspecialista--link {
+        font-size: 1rem;
+    }
+
+
+    /* FOOTER */
+
+    .container__footer__informacao{
+        flex-direction: column;
+        gap: 2rem;
+        text-align: center;
+    }
+
+    .container__footer h2 {
+        font-size: 1rem;
+        text-align: center;
+    } 
+    
+    .informacao__contact--paragraph {
+        font-size: 1rem;
+    }
+
+    .container__footer__informacao__ATD {
+        width: auto;
+    }
+
+    .container__footer__informacao__contact {
+        align-items: center;
+    }
+
+    .container__footer__informacao__servicos {
+        align-items: center;
+    }
+
+    .container__footer__copyright {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+        border-top: 1px solid rgba(247, 245, 245, 0.1);
+    }
+} 
