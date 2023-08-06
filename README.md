@@ -11,7 +11,7 @@
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
-<img src="./img/demo-atd-cadastro.png" alt="demo do projeto atd-cadastro">
+<img src="./img/demo-atd-cadastrado.png" alt="demo do projeto atd-cadastro">
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
